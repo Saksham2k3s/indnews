@@ -84,7 +84,7 @@ function News(props) {
   return (
     <>
       <div className="container my-3">
-        <h2 className="text-center my-5">IndNews Top Headline</h2>
+        <h2 className="text-center my-5">IndNewss Top Headline</h2>
 
         {/* category buttons */}
         <div className="container-fluid">
