@@ -109,7 +109,7 @@ function News(props) {
                   setLoading(true);
                 }}
               >
-              <i class="fa-solid fa-computer"></i>  Technology
+              <i class="fa-solid fa-computer"></i>  Technologyyy
               </button>
               <button
                 className={`btn button sm ${
