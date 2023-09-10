@@ -44,7 +44,7 @@ function NewsItem(props) {
                 target="_blank"
                 className="btn"
               >
-                Read M
+                Read More
               </Link>
 
               <Checkbox
